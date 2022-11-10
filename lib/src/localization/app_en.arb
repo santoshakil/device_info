@@ -1,0 +1,6 @@
+{
+  "appTitle": "device_info",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
